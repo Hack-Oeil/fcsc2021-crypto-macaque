@@ -3,7 +3,7 @@
 Retrouvez le flag avec l’accès à ce service distant.
 
 
-Auteur : lok et [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteurs : lok et [Cryptanalyse](https://twitter.com/Cryptanalyse)
 
 Origine : [Macaque](https://hackropole.fr/fr/challenges/crypto/fcsc2021-crypto-macaque/)
 
